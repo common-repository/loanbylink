@@ -1,0 +1,70 @@
+img
+{
+    display: inline;
+}
+
+.provema-loan-details
+{
+    width: 100%;
+    padding: 6px 12px 10px 12px;
+    /*border: 1px solid rgba(0,0,0,.1);*/
+    border-bottom-width: 2px;
+    border-right-width: 2px;
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: #f8f8f8;
+    margin-bottom: 20px;
+}
+
+.provema-button-wrap
+{
+    margin: 20px 0;
+    text-align: center;
+}
+
+.element-center
+{
+    margin: 20px auto;
+    text-align: center;    
+}
+
+.wc-col
+{
+    width: 33.3%;
+    float: left;
+    text-align: center;
+}
+
+.left-col
+{
+    width: 20%;
+    float: left;
+}
+
+.right-col
+{
+    width: 70%;
+    float: right;
+}
+
+.align-center
+{
+    text-align: center;
+}
+
+.provama-button
+{
+    display: inline-block;
+    margin-top: 10px;
+    padding: 7.5px 15px;
+    border: 1px #7a221a solid;
+    background-color: #7a221a;
+    color: #fff;
+    cursor: pointer;
+}
+
+.provama-button:hover
+{
+    background-color: #7a221a;
+    color: #fff;
+}
